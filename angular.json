@@ -90,9 +90,13 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/responsive.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/script.js",
+              "src/assets/js/i18n.js"
+            ]
           }
         }
       }
